@@ -11,6 +11,13 @@ Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite eve
 - Number of participants: 10-20
 - Setting: round table like meeting room
 - Duration: 3 hours
+- There going to be a moderator leading the meeting
+
+## Every participant can
+- Make a presentation
+- Rise a question or propose a discussion topic
+- Ask opinion of other participants
+- Share opinion
 
 ## Who is participating?
 
