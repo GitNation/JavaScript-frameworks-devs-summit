@@ -8,9 +8,9 @@ Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite eve
 
 ## What to expect?
 
-Number of participants: 10-20
-Setting: round table like meeting room
-Length: 3 hours
+- Number of participants: 10-20
+- Setting: round table like meeting room
+- Duration: 3 hours
 
 ## Who is participating?
 
