@@ -1,10 +1,10 @@
-# JavaScript frameworks developers summit 2023
+# JavaScript Frameworks Developers Summit 2023
 
 All existing JavaScript events gather wide audience of software developers to get updates about technology. There are practically no events designed for JavaScript libraries developers where they can gather in productive setting to discuss common problems and the future of JavaScript ecosystem.
 
 ## Where and when?
 
-Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
+Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
 
 ## What to expect?
 
@@ -21,9 +21,14 @@ Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite eve
 
 ## Who is participating?
 
- - Participant 1
- - Participant 2
- - TBD
+ - Tobias Koppers (Webpack and Turbopack Creator)
+ - Miško Hevery (Builder.io, Qwik Creator)
+ - Ryan Carniato (SolidJS Creator)
+ - Caleb Porzio (AlpineJS & LaravelLivewire Creator)
+ - Aria Minaei (Theatre.js Creator)
+ - Minko Gechev (Angular Product Lead @ Google)
+ - Emanuele Stoppa (Rome project Contributor)
+ - and more
 
 ## How can I participate?
 
