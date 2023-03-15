@@ -24,7 +24,6 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
  - Tobias Koppers (Webpack and Turbopack Creator)
  - Miško Hevery (Builder.io, Qwik Creator)
  - Ryan Carniato (SolidJS Creator)
- - Caleb Porzio (AlpineJS & LaravelLivewire Creator)
  - Aria Minaei (Theatre.js Creator)
  - Minko Gechev (Angular Product Lead @ Google)
  - Emanuele Stoppa (Rome project Contributor)
