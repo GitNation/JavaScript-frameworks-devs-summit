@@ -1,4 +1,4 @@
-![JavaScript Frameworks Developers Summit](https://github.com/GitNation/JavaScript-frameworks-devs-summit/blob/master/header.gif?raw=true)
+![JavaScript Frameworks Developers Summit](./header.gif?raw=true)
 
 All existing JavaScript events gather wide audience of software developers to get updates about technology. There are practically no events designed for JavaScript libraries developers where they can gather in productive setting to discuss common problems and the future of JavaScript ecosystem.
 
