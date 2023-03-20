@@ -11,7 +11,7 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
 - Number of participants: 10-20
 - Setting: round table like meeting room
 - Duration: 3 hours
-- There going to be a moderator leading the meeting
+- One of confirmed moderators leading the meeting: Miško Hevery (Builder.io, Qwik Creator)
 
 ## Every participant can
 - Make a presentation
@@ -22,7 +22,6 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
 ## Who is participating?
 
  - Tobias Koppers (Webpack and Turbopack Creator)
- - Miško Hevery (Builder.io, Qwik Creator)
  - Ryan Carniato (SolidJS Creator)
  - Aria Minaei (Theatre.js Creator)
  - Minko Gechev (Angular Product Lead @ Google)
@@ -31,4 +30,6 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
 
 ## How can I participate?
 
-The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please contact events@gitnation.org to be put in the loop.
+The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please [feel in the form](https://forms.gle/iUPzEvDo6McDcUTe8). 
+
+For any questions please contact us via events@gitnation.org.
