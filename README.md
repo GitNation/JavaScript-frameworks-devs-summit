@@ -31,6 +31,6 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
 
 ## How can I participate?
 
-The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please [fill in the form](https://forms.gle/iUPzEvDo6McDcUTe8) until April 2, 23:59 CEST. 
+The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please [fill in the form](https://forms.gle/iUPzEvDo6McDcUTe8) until April 28, 23:59 CEST. 
 
 For any questions please contact us via events@gitnation.org.
