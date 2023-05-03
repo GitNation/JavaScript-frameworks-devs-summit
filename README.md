@@ -26,7 +26,7 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
  - Minko Gechev (Angular Product Lead @ Google)
  - Jecelyn Yeen (Chrome DevTools @ Google)
  - Aria Minaei (Theatre.js Creator)
- - Emanuele Stoppa (Rome project Contributor)
+ - Matteo Collina (Node.js Technical Steering Committee Member, Pino & Fastify Creator)
  - and more
 
 ## How can I participate?
