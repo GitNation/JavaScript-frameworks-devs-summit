@@ -4,14 +4,14 @@ All existing JavaScript events gather wide audience of software developers to ge
 
 ## Where and when?
 
-Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
+Summit to take place in **Amsterdam, June 12 at 15:00-18:00 CEST**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
 
 ## What to expect?
 
-- Number of participants: 10-20
+- Number of participants: 10-15
 - Setting: round table like meeting room
 - Timing: 14:30-15:00 participants are gathering; 15:00-18:00 meeting
-- Moderator: Miško Hevery (Builder.io, Qwik Creator)
+- Moderator: Daniel Afonso (Developer Advocate at OLX, OS Awards Program Committee Member)
 
 ## Every participant can
 - Make a presentation
@@ -21,13 +21,15 @@ Summit to take place in **Amsterdam, May 31st at 15:00-18:00 CEST**. This time i
 
 ## Who is participating?
 
- - Tobias Koppers (Webpack and Turbopack Creator)
- - Ryan Carniato (SolidJS Creator)
+ - Evan You (Vue.js & Vite Creator)
  - Minko Gechev (Angular Product Lead @ Google)
+ - Fred K. Schott (Astro Co-creator, Snowpack Author)
+ - Mr.doob (Three.js Author)
+ - Tobias Koppers (Webpack and Turbopack Creator)
+ - Anthony Fu (Vue, Nuxt and Vite Core Team Member)
  - Jecelyn Yeen (Chrome DevTools @ Google)
- - Aria Minaei (Theatre.js Creator)
- - Matteo Collina (Node.js Technical Steering Committee Member, Pino & Fastify Creator)
- - Maël Nison (Yarn Lead Maintainer)
- - and more
+ - Jason Mayes (TensorFlow.js @ Google)
+ - Boshen Chen (Oxc Creator)
+ - and more.
 
 For any questions please contact us via events@gitnation.org.
