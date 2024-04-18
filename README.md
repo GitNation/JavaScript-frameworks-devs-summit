@@ -29,7 +29,7 @@ Summit to take place in **Amsterdam, June 12 at 15:00-18:00 CEST**. This time it
  - Anthony Fu (Vue, Nuxt and Vite Core Team Member)
  - Jecelyn Yeen (Chrome DevTools @ Google)
  - Jason Mayes (TensorFlow.js @ Google)
- - Boshen Chen (Oxc Creator)
+ - Natalia Tepluhina (Vue.js Core Team Member)
  - and more.
 
 For any questions please contact us via events@gitnation.org.
