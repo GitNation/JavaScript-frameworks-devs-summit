@@ -32,4 +32,6 @@ Summit to take place in **Amsterdam, June 12 at 15:00-18:00 CEST**. This time it
  - Natalia Tepluhina (Vue.js Core Team Member)
  - and more.
 
+Would like to join? Please apply via the form by June 4: https://forms.gle/6Rah4f2p5WGK5FrSA.
+
 For any questions please contact us via events@gitnation.org.
