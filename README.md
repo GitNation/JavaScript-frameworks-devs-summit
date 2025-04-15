@@ -4,14 +4,15 @@ All existing JavaScript events gather wide audience of software developers to ge
 
 ## Where and when?
 
-Summit to take place in **Amsterdam, June 12 at 15:00-18:00 CEST**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
+Summit to take place in **Amsterdam, June 13 at 10:00-13:00 CEST**. 
+This time it is a sattelite event of JSNation conference and happens at Circa (address: Seineweg 2, 1043 BG Amsterdam).
 
 ## What to expect?
 
 - Number of participants: 10-15
 - Setting: round table like meeting room
-- Timing: 14:30-15:00 participants are gathering; 15:00-18:00 meeting
-- Moderator: Daniel Afonso (Developer Advocate at OLX, OS Awards Program Committee Member)
+- Timing: 9:30-10:00 participants are gathering; 10:00-13:00 meeting
+- Moderator: TBC
 
 ## Every participant can
 - Make a presentation
@@ -21,17 +22,14 @@ Summit to take place in **Amsterdam, June 12 at 15:00-18:00 CEST**. This time it
 
 ## Who is participating?
 
- - Evan You (Vue.js & Vite Creator)
+ - Matteo Collina (Node.js Technical Steering Committee member)
  - Minko Gechev (Angular Product Lead @ Google)
- - Fred K. Schott (Astro Co-creator, Snowpack Author)
- - Mr.doob (Three.js Author)
- - Tobias Koppers (Webpack and Turbopack Creator)
- - Anthony Fu (Vue, Nuxt and Vite Core Team Member)
- - Jecelyn Yeen (Chrome DevTools @ Google)
- - Jason Mayes (TensorFlow.js @ Google)
- - Natalia Tepluhina (Vue.js Core Team Member)
- - and more.
+ - Joshua Lochner (Transformers.js creator)
+ - Jo Franchetti (Deno team)
+ - Zoltan Kochan (pnpm maintainer)
+ - Leo Kettmeir (working on JSR, Deno team)
+ - Marco Ippolito (Node.js Technical Steering Committee member)
+ - Paolo Ricciuti (Svelte contributor)
+ - Charlie Gerard (Practical Machine Learning in JavaScript with TensorFlow.js author)
 
-Would like to join? Please apply via the form by June 4: https://forms.gle/6Rah4f2p5WGK5FrSA.
-
-For any questions please contact us via events@gitnation.org.
+For any questions, please contact us via events@gitnation.org.
