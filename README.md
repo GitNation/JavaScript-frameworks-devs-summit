@@ -12,7 +12,7 @@ This time it is a sattelite event of JSNation conference and happens at Circa (a
 - Number of participants: 10-15
 - Setting: round table like meeting room
 - Timing: 9:30-10:00 participants are gathering; 10:00-13:00 meeting
-- Moderator: TBC
+- Moderator: Shivay Lamba (Open Source Enthusiast) & Vinicius Dallacqua (PerfLab Founder)
 
 ## Every participant can
 - Make a presentation
